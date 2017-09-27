@@ -1,1 +1,2 @@
-# Risk-Alert-of-accident-prone-areas
+This project, done as a part of IEEE NITK, is about performing data analysis on traffic data to notify the user of the risk involved while traveling into an area. The work involved building a Django-based web application to dynamically track the latitude and longitude of the user and use machine learning algorithms to predict the amount of risk involved based on his age, gender and expertise of driving. 
+We performed machine learning techniques like Classification using Naive Bayes classifier, Genetic Algorithm and Fuzzy C-means clustering.
